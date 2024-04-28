@@ -1,0 +1,21 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url('https://image.api.playstation.com/vulcan/ap/rnd/202210/0814/TWpOjSegV0eb0lJNiG99iQJc.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    color: #ffffff;
+    width: 150px;
+    background-color: goldenrod;
+    margin-bottom: 10px;
+    padding: 5px 0;
+    font-weight: bold;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
